@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Pink Bling Ur Ride Selector">f1d459fe53521210e1427ab0a0490e10</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-09 18:31:53</sys_created_on>
+        <sys_id>e864b97a53161210e1427ab0a0490ebf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pink Bling Ur Ride Selector.Any User</sys_name>
+        <sys_package display_value="Pink Bling Ur Ride!!" source="x_887813_pink_bl_0">a79e41f653521210e1427ab0a0490e63</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pink Bling Ur Ride!!">a79e41f653521210e1427ab0a0490e63</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_e864b97a53161210e1427ab0a0490ebf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-09 18:31:53</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Pink Bling Ur Ride!!">a79e41f653521210e1427ab0a0490e63</application>
+        <file_path/>
+        <instance_id>755850cf1b82f190e84d2f8dee4bcbf6</instance_id>
+        <instance_name>dev195184</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_e864b97a53161210e1427ab0a0490ebf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Pink Bling Ur Ride Selector">f1d459fe53521210e1427ab0a0490e10</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-09 18:31:53</sys_created_on><sys_id>e864b97a53161210e1427ab0a0490ebf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Pink Bling Ur Ride Selector.Any User</sys_name><sys_package display_value="Pink Bling Ur Ride!!" source="x_887813_pink_bl_0">a79e41f653521210e1427ab0a0490e63</sys_package><sys_policy/><sys_scope display_value="Pink Bling Ur Ride!!">a79e41f653521210e1427ab0a0490e63</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_e864b97a53161210e1427ab0a0490ebf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-09 18:31:53</sys_updated_on><user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>-884237402</payload_hash>
+        <record_name>Pink Bling Ur Ride Selector.Any User</record_name>
+        <reverted_from/>
+        <source>eb9e41f653521210e1427ab0a0490e67</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-09 18:31:53</sys_created_on>
+        <sys_id>2064b97a53161210e1427ab0a0490ec5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193acb130bc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-09 18:31:53</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>6064b97aba161210d93c120983ed19c4</update_guid>
+        <update_guid_history>6064b97aba161210d93c120983ed19c4:-884237402</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Pink Bling Ur Ride Selector.Any User">0915f9ba53161210e1427ab0a0490e81</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-09 18:34:56</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>3035e97a753442f0abaf8573e035a864</sys_id>
+        <sys_metadata>e864b97a53161210e1427ab0a0490ebf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pink Bling Ur Ride Selector.Any User</sys_name>
+        <sys_package display_value="Pink Bling Ur Ride!!" source="x_887813_pink_bl_0">a79e41f653521210e1427ab0a0490e63</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Pink Bling Ur Ride!!">a79e41f653521210e1427ab0a0490e63</sys_scope>
+        <sys_scope_delete display_value="">0fc56f3017004e0f813960785b4c78a9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_e864b97a53161210e1427ab0a0490ebf</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_e864b97a53161210e1427ab0a0490ebf">2064b97a53161210e1427ab0a0490ec5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-09 18:34:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

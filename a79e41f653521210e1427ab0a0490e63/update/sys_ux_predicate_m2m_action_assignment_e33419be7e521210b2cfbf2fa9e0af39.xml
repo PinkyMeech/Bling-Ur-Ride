@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="approve">7b3419be1e521210313ad5c7bd9eae69</declarative_action_assignment>
+        <predicate display_value="My Tasks">273419be395212101cba4c0a980dfa44</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-12-09 16:11:31</sys_created_on>
+        <sys_id>e33419be7e521210b2cfbf2fa9e0af39</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Pink Bling Ur Ride!!" source="x_887813_pink_bl_0">a79e41f653521210e1427ab0a0490e63</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pink Bling Ur Ride!!">a79e41f653521210e1427ab0a0490e63</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_e33419be7e521210b2cfbf2fa9e0af39</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-12-09 16:11:31</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

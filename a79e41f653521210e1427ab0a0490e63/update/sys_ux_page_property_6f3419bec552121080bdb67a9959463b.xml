@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="Pink Bling Ur Ride!!">233419be53521210e1427ab0a0490e0a</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Search Page">773419be25521210a9977b3f87039f5b</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-12-09 16:11:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>6f3419bec552121080bdb67a9959463b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Pink Bling Ur Ride!!" source="x_887813_pink_bl_0">a79e41f653521210e1427ab0a0490e63</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pink Bling Ur Ride!!">a79e41f653521210e1427ab0a0490e63</sys_scope>
+        <sys_update_name>sys_ux_page_property_6f3419bec552121080bdb67a9959463b</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-12-09 16:11:33</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_887813_pink_bl_0.233419be53521210e1427ab0a0490e0a.route.chrome_header.773419be25521210a9977b3f87039f5b</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}&#13;
+</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=6f3419bec552121080bdb67a9959463b"/>
+</record_update>

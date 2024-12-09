@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Search Page">3f3419be1e521210d30ea66dc2e70057</macroponent>
+        <name>handle_search</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[function handler({ api, event, helpers }) {
+    const fields = {
+        searchContextConfigId: api.context.props.searchContextConfigId
+    };
+    const params = {
+        searchFilters: api.context.props.searchFilters
+    };
+    
+	if (event.name === 'SN_SEARCH_RESULTS_CONTAINER#SEARCH_EXECUTED') {
+		fields.searchTerm = event.payload.searchTerm;
+		params.disableSpellCheck = true;
+        
+  	} else if (event.name === 'SN_SEARCH_COMBOBOX#SEARCH_EXECUTED') {
+		fields.searchTerm = event.payload.searchTerm;
+		params.disableSpellCheck = false;
+        console.log("search clicked");
+        api.setState('loading', true);
+        api.setState('searchTerm', event.payload.searchTerm);
+  	}
+	//helpers.navigate.to('search', fields, params);
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-12-09 16:11:31</sys_created_on>
+        <sys_id>ff3419be565212105aad028994703051</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>handle_search</sys_name>
+        <sys_package display_value="Pink Bling Ur Ride!!" source="x_887813_pink_bl_0">a79e41f653521210e1427ab0a0490e63</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pink Bling Ur Ride!!">a79e41f653521210e1427ab0a0490e63</sys_scope>
+        <sys_update_name>sys_ux_client_script_ff3419be565212105aad028994703051</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-12-09 16:11:31</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

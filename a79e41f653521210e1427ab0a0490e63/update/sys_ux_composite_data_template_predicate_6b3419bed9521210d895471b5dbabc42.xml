@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>due_date,short_description,number,state</field_list>
+        <name>My request - incident predicate</name>
+        <order/>
+        <predicate_bundle display_value="My requests - incident bundle">633419be6752121033c0cf91d1456447</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-12-09 16:11:32</sys_created_on>
+        <sys_id>6b3419bed9521210d895471b5dbabc42</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My request - incident predicate</sys_name>
+        <sys_package display_value="Pink Bling Ur Ride!!" source="x_887813_pink_bl_0">a79e41f653521210e1427ab0a0490e63</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pink Bling Ur Ride!!">a79e41f653521210e1427ab0a0490e63</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_6b3419bed9521210d895471b5dbabc42</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-12-09 16:11:32</sys_updated_on>
+        <table>incident</table>
+        <ux_template display_value="Item produced template">ef3419be38521210e7af3116331c5745</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>
